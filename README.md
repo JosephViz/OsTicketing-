@@ -19,11 +19,68 @@ This project was to deploy and configure a functional help desk ticketing enviro
 - **Docker Desktop** - Deployed and managed the containerized lab environment.
 - **MySQL** - Database backend for storing osTicket application data
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+<h2>Program walk-through:</h2>
 
-Example below.
+<p align="center">
+ 
+Checked Docker version Via Powershell
+<br/>
 
-*Ref 1: Network Diagram*
+
+<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ 
+created a folder, "C:\Dockerlabs\osticket-lab"  directory to organize all files
+<br/>
+
+
+<img src="https://i.imgur.com/RPt7rZq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4xNFmbM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+  
+ Inside the 'osticket-lab' directory, I created two configuration files:<br/>
+  - '.env' : For storing environment variables required for the MySQL database configuration<br/>
+  - 'docker-compose.yml' : Defines how the osTicket application and database containers are deployed
+<br/>
+
+
+<img src="https://i.imgur.com/IcGftcq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ 
+Checked Docker version
+<br/>
+
+
+<img src="https://i.imgur.com/2ISIGie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ 
+Checked Docker version
+<br/>
+
+
+<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ 
+Checked Docker version
+<br/>
+
+
+<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
