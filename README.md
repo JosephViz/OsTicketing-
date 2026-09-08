@@ -1,7 +1,7 @@
 ## Help Desk Ticketing & Management Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 This project was to deploy and configure a functional help desk ticketing environment using osTicket, Docker, and MySQL. The lab simulated a basic IT support workflow by configuring departments and ticket settings, submitting user support requests, reviewing tickets through the Staff Control Panel, and responding to reported issues. 
 
