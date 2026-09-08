@@ -101,40 +101,12 @@ Upon signing in, I created Departments & Configured Admin settings.
 
 <p align="center">
  
-Checked Docker version Via Powershell
+Created a new ticket for an "Account lockout" to simulate an end-user support request. I proceeded by reviewing the ticket details, assessed the reported issue, and responded to the user with resolution intructions.
 <br/>
 
 
-<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<p align="center">
- 
-Checked Docker version Via Powershell
-<br/>
-
-
-<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<p align="center">
- 
-Checked Docker version Via Powershell
-<br/>
-
-
-<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<p align="center">
- 
-Checked Docker version Via Powershell
-<br/>
-
-
-<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3MuVPN7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hx4PAby.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8ebbGUf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
