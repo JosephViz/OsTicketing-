@@ -55,19 +55,40 @@ created a folder, "C:\Dockerlabs\osticket-lab"  directory to organize all files
 <br />
 <br />
 
+**env stored data:** 
+
+<img src="https://i.imgur.com/2ISIGie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+**docker-compose.yml stored data:**
+<img src="https://i.imgur.com/Z380Aqh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <p align="center">
  
-Checked Docker version
+After creating the Docker Configuration files, I navigated to the lab directory and ran:<br/>
+- docker compose up -d: **Reads the docker-compose.yml file and lauches the osTicket and MySQL services**
 <br/>
 
 
-<img src="https://i.imgur.com/2ISIGie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zwqkaf7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+
+ After launching the services, I opened OsTicket via Localhost(Web browser)
+<br/>
+
+
+<img src="https://i.imgur.com/aWWRw6W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EYstOBG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
  
-Checked Docker version
+Checked Docker version Via Powershell
 <br/>
 
 
@@ -77,7 +98,37 @@ Checked Docker version
 
 <p align="center">
  
-Checked Docker version
+Checked Docker version Via Powershell
+<br/>
+
+
+<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ 
+Checked Docker version Via Powershell
+<br/>
+
+
+<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ 
+Checked Docker version Via Powershell
+<br/>
+
+
+<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ 
+Checked Docker version Via Powershell
 <br/>
 
 
