@@ -88,11 +88,14 @@ After creating the Docker Configuration files, I navigated to the lab directory 
 
 <p align="center">
  
-Checked Docker version Via Powershell
+Upon signing in, I created Departments & Configured Admin settings.
 <br/>
 
 
-<img src="https://i.imgur.com/pMXoenn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RV0i8ul.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3Tvgrhe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tB5mu8M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RvxyDcW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
